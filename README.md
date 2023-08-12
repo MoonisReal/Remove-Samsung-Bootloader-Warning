@@ -6,7 +6,7 @@ Devices:
 
 ``` Samsung Galaxy Note 10+ ``` 
 
-``` Samsung S22 Ultra ```
+``` Samsung S22 Series ```
 
 
 ### Request your Device by sending the Issue
